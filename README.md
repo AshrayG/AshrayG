@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently skilling up in **React.**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Project**
 
 - 📫 How to reach me **ashray.gupta2002@gmail.com**
 
